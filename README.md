@@ -1,52 +1,41 @@
 ## Meal Suggestion App 
 
-  
- **Phathutshedzo Azania Sibanda**
+  **ST10488658**
 
-  
+  **Phathutshedzo Azania Sibanda** 
 
-**ST10488658**
+  **HAW_2025**
+
+  **IMAD5111**
+
+  **Group: 2** 
 
 
- 
- **Group 2**
-
-  
-
-**HAW_2025**
-
-  
-
- **IMAD5112**
-
-  
-
-### Links:
   
 
 
 
-**Link to the GitHub Repository**: https://github.com/Zan-ai-ai/IMADAPP1 
+**Repository Link to Github**: https://github.com/Zan-ai-ai/IMADAPP1 
 
   
 
 
 
-**Video link to Youtube:** <https://youtu.be/QD2qbHqxpvA> 
+**Video Link:** <https://youtu.be/QD2qbHqxpvA> 
 
 
 
   
 
-**Project Meeting:** The Meal Suggestion App Project 
+## **Project Briefing:** 
 
 
 
-  
 
-This work was completed as an assignment for course IMAD5112. This application gives quick meal suggestions for users to have as they go through their busy days. I programmed the application using Android Studio and Kotlin. 
 
-  
+
+This application **(The Meal suggestion App)** was completed as an assignment for course IMAD5112. This application gives quick meal suggestions for users to have as they go through their busy days. I programmed the application using Android Studio and Kotlin. 
+
 
 
 
@@ -60,28 +49,27 @@ Objective: This application is exclusively developed to help users get a quick m
 
 
 
-Important feature: Meal Suggestion Generation Button 
+Important Feature: The Generation Button for Meal Suggestions 
 
 
 
 
-The feature allows the generation of a quick suggestion so that the user can have a food suggestion by the time of day. 
+The feature allows generation of a quicker suggestion so that the user can have a food suggestion by the time of day. 
 
 
 
   
-### Design Considerations: 
+### Things considered for app design: 
 
 
 
 
-Core considerations in the design of Meal Suggestion App are: 
+Main considerations in the design of Meal Suggestion App are: 
 
 
 
 
-Easy user experiiance : The app focused on smooth use and a very rich User Interface. 
-
+Easy user experience : The app focused on smooth use and a very rich User Interface. 
 
 
 
@@ -109,7 +97,7 @@ Minimalism: The design is simple and not confusing for a user.
 
 
 
-Caption 1 [Image of the app home screen] 
+Caption 1 [Image showing the home screen of the application] 
 
 
 
@@ -122,19 +110,19 @@ Caption 1 [Image of the app home screen]
 
   
 
-Caption 2 [Screenshot showing results displayed after a user input is inserted] 
+Caption 2 [An image showing the results after users input time of day] 
 
   
 
 ### Video Demonstartion 
 
 
-A video showing how this application actually works can be found here: <https://youtu.be/QD2qbHqxpvA>
+A video showing how this application actually works can be accessed here: <https://youtu.be/QD2qbHqxpvA>
 
 
 
 
-### Problems and How I solved them
+### Problems vs. How I solved them
 
 
 
@@ -143,48 +131,48 @@ During this application development, some challenges started to appear that dela
 
 
 
-Challenge: Develop code that will make the app effective even if the user inputs the time of day in small letters. 
+**Challenge:** Develop code that that enables the user to get results even if they input their time of day in small caps.
 
 
 
-How i solved it: Unfortunately, I couldn't fix it. 
-
-
-
-
-Challenge: Commit and push the project to GitHub 
-
-
-
-How i solved it: Assistance from Youtube Video Tutorials made it easier to understand the content 
-
-  
-
-
-
-Future Work 
+**How i solved it:** I struggled in terms of fixing it. 
 
 
 
 
-Below are future feature additions that I think will improve user experience within the app: 
+**Challenge:** Commit and push the project to GitHub 
 
 
 
-
- 1: The app should send notifications to users by reminding them to use the app every day. 
-
-
-
-
-
-2: Allowing users to store and back up data 
-
-
+**How i solved it:** Youtube video content made the task easier to understand.
 
   
 
-3: Create a community of users inside the app where they can exchange new ideas. 
+
+
+### Future Work 
+
+
+
+
+Below is a list of future feature add-ons that I think will improve user experience within the app: 
+
+
+
+
+ **1:** The app should send notifications to users by reminding them to use the app every day. 
+
+
+
+
+
+**2:** Allowing users to store and back up data 
+
+
+
+  
+
+**3:** Create a community of users inside the app where they can exchange new ideas. 
 
 
 
@@ -224,7 +212,7 @@ The Independent Institute of Education (IIE),2025.*notes 6 readme content.txt*,[
 
 
 
-2: Screenshot of results displayed after user input is inserted. 
+2: Image in a form of a screenshot displaying the results after user input 
 
 
 ### AI USE 
