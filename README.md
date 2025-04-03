@@ -1,24 +1,23 @@
 ## Meal Suggestion App 
 
   
-
-*Student Name*: Phathutshedzo Azania Sibanda 
-
-  
-
-*Student Number*: 10488658 
+ **Phathutshedzo Azania Sibanda**
 
   
 
-*Group*: 2 
+**ST10488658**
+
+
+ 
+ **Group 2**
 
   
 
-*Course*: HAW_2025 
+**HAW_2025**
 
   
 
-*Subject*: IMAD5112 
+ **IMAD5112**
 
   
 
@@ -204,6 +203,7 @@ These additions serve to make the application more versatile and usable.
 
 
 
+
 Panda Office,2025.*Tomato orange food ingredients H5 background*. [electronic print] Available at: <https://www.tukuppt.com/muban/aexpwwbo.html>[Accessed 31 March 2025] 
 
 
@@ -211,9 +211,13 @@ Panda Office,2025.*Tomato orange food ingredients H5 background*. [electronic pr
 The Code City,2023.*How to Push Code to Github from Visual Studio Code (2023).* [video online] Available at:<https://www.youtube.com/watch?v=jT9QEUOX00w>[Accessed 02 April 2025] 
 
 
+
+
+The Independent Institute of Education (IIE),2025.*notes 6 readme content.txt*,[IMAD5111] IMAD2025 [online via VLE] The Independent Institute of Education. Available at: <https://github.com/jesselsookha/IMAD2025/blob/main/notes%206%20readme%20content.txt>[Accessed Date 04 April 2025].
+
   
 
-### Figures 
+### List of Figures 
 
 
 1: Homescreen application screenshot 
@@ -221,3 +225,11 @@ The Code City,2023.*How to Push Code to Github from Visual Studio Code (2023).* 
 
 
 2: Screenshot of results displayed after user input is inserted. 
+
+
+### AI USE 
+
+
+Grammarly.2025.*Grammarly*(Version 14.1095.0).Available at: <https://app.grammarly.com/>[Accessed: 04 April 2025] 
+
+
